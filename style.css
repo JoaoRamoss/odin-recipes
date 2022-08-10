@@ -1,0 +1,26 @@
+html {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+}
+
+h1 {
+    text-align: center;
+    background-color: black;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+li {
+    line-height: 2rem;
+}
+
+h2 {
+    text-align: center;
+    background-color: black;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+.foodTitle {
+    background-color: orangered;
+}
